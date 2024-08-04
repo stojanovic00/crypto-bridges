@@ -62,7 +62,6 @@
     - mane:
         - centralizacija
         - smanjena bezbednost
-    - moze se kreirati federativna verzija koja se sastoji od vise notara, ali ni to nam mnogo ne garantuje
 
 - decentralizovani (trustless)
     - u ovom smart contract poolu  ucestvuje vise korisnika
