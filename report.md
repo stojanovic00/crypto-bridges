@@ -4,7 +4,7 @@
 ## Motivacija
 
 - u dosta slucaja, odgovaralo bi nam da mozemo da prebacimo nase assete sa jednog chaina na drugi
-    - problem u tome je sto chainovi nisu sposobni da medjusobno komuniciraju
+    - problem u tome je sto chainovi nisu sposobni da medjusobno komuniciraju  
 
 - Landing protokoli (AAVE) imaju bolji interest u slucaju odredjenih coina
     - ETH: 0.5%
